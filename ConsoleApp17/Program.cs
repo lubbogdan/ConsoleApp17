@@ -10,8 +10,9 @@ namespace ConsoleApp17
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("4444");
             Console.WriteLine("xzzxzxzx");
-            Console.WriteLine("xzzxzxzx");
+            Console.WriteLine("sasasas");
         }
     }
 }
