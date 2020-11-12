@@ -11,6 +11,7 @@ namespace ConsoleApp17
         static void Main(string[] args)
         {
             Console.WriteLine("xzzxzxzx");
+            Console.WriteLine("xzzxzxzx");
         }
     }
 }
